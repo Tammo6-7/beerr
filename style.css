@@ -1,0 +1,116 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    width: 1490px;
+}
+header .left {
+    width: 1245px;
+    height: 50px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 290px;
+}
+header .left  ul li {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 45px;
+}
+header .left .navbar ul li a {
+text-decoration: none;
+font-size: 22px;
+color:violet 
+}
+header .right {
+    width: 1245px;
+    height: 50px;
+    float: right;
+}
+ .cart {
+    font-size: 43px;
+    float: right;
+    position: relative;
+    bottom: 145px;
+    right: 70px;
+    color:violet
+}
+.apple {
+    font-size: 37px;
+    margin-left: 1000px;
+    color:violet
+}
+.pay {
+    font-size: 25px;
+    margin-left: 1040px;
+    position: relative;
+    bottom: 72px;
+    color:violet;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+main .left2 {
+    width: 700px;
+    height: 50px;
+    padding-left: 40px;
+    margin-top: 100px;
+}
+main .text {
+    width: 500px;
+    color: green;
+    font-size: 33px;
+    font:bold;
+    
+}
+.lorem {
+    width: 700px;
+    font-size: 22px;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+.add {
+    width: 400px;
+    height: 100px;
+}
+.Add {
+    margin-top: 70px;
+    margin-left: 35px;
+    
+}
+.Add button {
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    background-color: green;
+    color: white;
+    border:none;
+}
+ main .icons {
+    font-size: 40px;
+    margin-left: 1070px;
+    position: relative;
+    bottom: 290px;
+ }
+ .fa-facebook-f {
+     color:cornflowerblue;
+ }
+ .fa-whatsapp {
+     color: #25D366
+ }
+ .fa-instagram {
+     color:deeppink;
+ }
+ .box {
+     margin-left: 599px;
+     position: absolute;
+     top: 90px;
+ }
+ 
+
+ 
+
+
+
+
